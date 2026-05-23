@@ -1,5 +1,5 @@
 """
-IDN/HCO Parent Organization Identification Pipeline
+IDN/HCO Parent Organization Identification
 Streamlit UI — Single-step: Upload → Run → Download
 """
 
@@ -32,7 +32,7 @@ warnings.filterwarnings("ignore")
 # PAGE CONFIG
 # ─────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="IDN/HCO Identification Pipeline",
+    page_title="IDN/HCO Parent Identifier",
     page_icon="🏥",
     layout="wide",
     initial_sidebar_state="expanded",
