@@ -865,8 +865,8 @@ with st.sidebar:
 # MAIN CONTENT
 # ─────────────────────────────────────────────────────────────
 st.markdown("""
-<h1 style="color:#e2e8f0;font-size:28px;font-weight:700;margin-bottom:4px;">
-    🏥 IDN / HCO Parent Organization Pipeline
+<h1 style="color:#00008B;font-size:28px;font-weight:700;margin-bottom:4px;">
+    🏥 IDN / HCO Parent Organization Finder
 </h1>
 <p style="color:#718096;font-size:14px;margin-bottom:24px;">
     Upload your facilities file, run the AI pipeline, and download results with identified parent health systems.
