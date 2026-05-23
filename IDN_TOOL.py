@@ -43,10 +43,10 @@ st.set_page_config(
 # ─────────────────────────────────────────────────────────────
 st.markdown("""
 <style>
-    .stApp { background-color: #0f1117; }
+    .stApp { background-color: #ADD8E6; }
 
     [data-testid="stSidebar"] {
-        background: linear-gradient(180deg, #1a1f2e 0%, #0f1117 100%);
+        background: linear-gradient(180deg, #1a1f2e 0%, #ADD8E6 100%);
         border-right: 1px solid #2d3748;
     }
 
