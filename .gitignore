@@ -1,0 +1,10 @@
+APIKey.txt
+.venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+.DS_Store
+*.egg-info/
+dist/
+build/
